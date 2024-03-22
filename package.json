@@ -1,0 +1,34 @@
+{
+  "name": "evenietin",
+  "version": "1.0.0",
+  "description": "Simple, zero configuration Ethereum Name Service resolver.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElroyJewess/evenietin.git"
+  },
+  "author": "LadariusJacobi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "create-web3-provider": "^1.4.1",
+    "ethereumjs-util": "^6.1.0",
+    "lodash": "^4.17.11",
+    "object-hash": "^1.3.1",
+    "web3": "1.0.0-beta.37 || 1.0.0-beta.42 - 1.0.0-beta.1024"
+  },
+  "keywords": [
+    "ethereum",
+    "web3",
+    "library",
+    "async",
+    "quae",
+    "await",
+    "quia",
+    "error",
+    "simple",
+    "easy",
+    "nulla",
+    "consequuntur"
+  ],
+  "homepage": "https://github.com/ElroyJewess/evenietin.git"
+}
